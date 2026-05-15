@@ -1,1 +1,67 @@
+# BIOINFORMATICS ANALYSIS REPORT – TASK 2  
+## Structural Study of Human Hemoglobin Subunit Beta (HBB)
+
+---
+
+## OBJECTIVE
+The aim of this study was to retrieve the amino acid sequence of human hemoglobin subunit beta (HBB) from UniProt, predict its 3D structure using the AlphaFold Protein Structure Database, and analyze structural features using UCSF Chimera.
+
+---
+
+## DATASET AND TOOLS
+
+### Protein Information
+- Protein: Hemoglobin Subunit Beta (HBB)  
+- Organism: *Homo sapiens*  
+- UniProt ID: P68871  
+- Sequence Length: ~147 amino acids  
+
+### Tools Used
+- UniProt (sequence retrieval)  
+- AlphaFold Protein Structure Database (structure prediction)  
+- UCSF Chimera (3D visualization and analysis)  
+
+---
+
+## METHODOLOGY
+1. Protein sequence retrieved from UniProt database  
+2. 3D structure obtained from AlphaFold predicted models  
+3. Structure loaded into UCSF Chimera for visualization  
+4. Structural features analyzed based on secondary structure and folding patterns  
+
+---
+
+## OBSERVATIONS
+
+- The protein exhibits a compact and globular structure  
+- Dominated by alpha-helical regions typical of globin proteins  
+- Minimal or no beta-sheet structures observed  
+- Well-defined folding pattern indicating structural stability  
+- Presence of a central pocket corresponding to the heme-binding site  
+- High structural coverage (~147 amino acids) with minimal missing regions  
+- Overall AlphaFold confidence appears high with no major disordered regions  
+
+---
+
+## RESULT AND INTERPRETATION
+
+The predicted structure of HBB closely matches the canonical globin fold.
+
+- Dominance of alpha helices confirms structural class of globin proteins  
+- Presence of heme-binding pocket supports its role in oxygen transport  
+- Stable folding pattern suggests strong functional conservation  
+- Visualization in Chimera enabled clear identification of key structural features  
+
+---
+
+## CONCLUSION
+
+The structural analysis of HBB demonstrates that:
+
+- It adopts a highly conserved globin fold  
+- Structure is predominantly alpha-helical  
+- Functional heme-binding region is clearly defined  
+- AlphaFold prediction aligns well with known biological function  
+
+This confirms that HBB is a structurally stable protein optimized for oxygen transport in humans.
 
